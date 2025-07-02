@@ -1,7 +1,7 @@
 ## About
 pglite-typeorm
 
-## API Reference: [https:///pglite-typeorm](https:///pglite-typeorm)
+## API Reference: [https://ragrag.github.io/pglite-typeorm](https://ragrag.github.io/pglite-typeorm)
 
 ### Installing
 
