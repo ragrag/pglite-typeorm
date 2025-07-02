@@ -1,5 +1,5 @@
 ## About
-pglite-typeorm
+TypeORM DataSource For PGlite
 
 ## API Reference: [https://ragrag.github.io/pglite-typeorm](https://ragrag.github.io/pglite-typeorm)
 
@@ -33,4 +33,4 @@ await dataSource.initialize();
 
 
 ### Note
-@electric-sql/pglite is expected to be installed as a this package only includes it as a peer dependency
+```@electric-sql/pglite``` is expected to be installed as a this package only includes it as a peer dependency
