@@ -4,9 +4,11 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - master
+      - main
     paths:
       - "docs/**"
+      - "README.md"
+      - ".github/workflows/update-docs.yml"
 
 jobs:
   update-docs:
