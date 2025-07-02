@@ -22,7 +22,7 @@ jobs:
       - name: Checkout docs repository
         uses: actions/checkout@v2
         with:
-          repository: 
+          repository: ragrag/ragrag.github.io
           path: docs-repo
           token: ${{ secrets.PAT }}
 
