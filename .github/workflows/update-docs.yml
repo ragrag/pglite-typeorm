@@ -1,6 +1,7 @@
 name: Update github.io Docs Repo
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - master
