@@ -1,6 +1,6 @@
 {
 	"name": "pglite-typeorm",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"author": "Ragy Hosny",
 	"repository": "https://github.com/ragrag/pglite-typeorm",
 	"description": "TypeORM DataSource For PGlite",
